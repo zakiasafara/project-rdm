@@ -3,6 +3,7 @@
 ## TEXT INDEXING (Verbose the indexer)
 
 1. Make a folder
+
 ![Image of image-search-engine](./Screenshoot/textindexing/1.png)
 
 2. Clone the git

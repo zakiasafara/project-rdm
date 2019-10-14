@@ -32,7 +32,7 @@
 ![Image of image-search-engine](./Screenshoot/imageindexing/2.png)
 3. Run the program
 - ```cd app```
-![Image of image-search-engine](./Screenshoot/"imageindexing"/3.png)
+![Image of image-search-engine](./Screenshoot/imageindexing/3.png)
 - ```python3 index.py --dataset static/images --index index.csv```
 ![Image of image-search-engine](./Screenshoot/imageindexing/4.png)
 

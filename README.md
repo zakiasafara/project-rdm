@@ -16,7 +16,7 @@
 		- ```sudo apt-get install libgtk-3-dev```
 		![Image of image-search-engine](./Screenshot/text indexing/3.png)
 		
-		- install pip ```sudo apt-get install python3-pip
+		- install pip ```sudo apt-get install python3-pip```
 		![Image of image-search-engine](./Screenshot/text indexing/4.png)
 		
 		- ```pip3 install -r requirements.txt```

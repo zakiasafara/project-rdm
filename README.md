@@ -36,6 +36,9 @@
 - ```python3 index.py --dataset static/images --index index.csv```
 ![Image of image-search-engine](./Screenshoot/imageindexing/4.png)
 
+4. done
+![Image of image-search-engine](./Screenshoot/imageindexing/5.png)
+
 ## Source
 
 Image indexing : https://github.com/kudeh/image-search-engine
